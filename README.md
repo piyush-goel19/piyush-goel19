@@ -18,10 +18,10 @@
 
 Engineering leader with **9+ years** building mission-critical backend platforms across **fintech, capital markets, and travel-tech**.
 
-⚡ Systems scaled to **2M+ RPS**
-⚡ Owned lending platforms managing **$732M loan book**
-⚡ Delivered **40% YoY revenue growth**
-⚡ Achieved **60%+ cost optimisation wins**
+⚡ Systems scaled to **2M+ RPS**  
+⚡ Owned lending platforms managing **$732M loan book**    
+⚡ Delivered **40% YoY revenue growth**     
+⚡ Achieved **60%+ cost optimisation wins**     
 ⚡ Built and led high-performing engineering squads
 
 I specialize in turning complex business problems into elegant, scalable systems.
